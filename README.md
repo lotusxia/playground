@@ -1,4 +1,4 @@
-# Playground
+# Your Playground is hacked
 
 A place to play with `git`.
 
